@@ -1,17 +1,20 @@
-# cra-template-typescript
+# cra-template-jasonstoltz-eui
 
-This is the official TypeScript template for [Create React App](https://github.com/facebook/create-react-app).
+This is a test.
 
-To use this template, add `--template typescript` when creating a new app.
+A [Create React App](https://github.com/facebook/create-react-app) template for [EUI](https://github.com/elastic/eui).
+
+
+To use this template, add `--template jasonstoltz-eui` when creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app my-app --template typescript
+npx create-react-app my-app --template jasonstoltz-eui
 
 # or
 
-yarn create react-app my-app --template typescript
+yarn create react-app my-app --template jasonstoltz-eui
 ```
 
 For more information, please refer to:
